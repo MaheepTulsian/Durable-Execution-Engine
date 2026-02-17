@@ -27,7 +27,7 @@ A fault-tolerant workflow execution library for Go that makes normal code automa
 ### Installation
 
 ```bash
-go get github.com/yourusername/durable-execution-engine
+go get github.com/MaheepTulsian/durable-execution-engine
 ```
 
 ### Basic Example
@@ -37,7 +37,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/durable-execution-engine/engine"
+    "github.com/MaheepTulsian/durable-execution-engine/engine"
 )
 
 func main() {
